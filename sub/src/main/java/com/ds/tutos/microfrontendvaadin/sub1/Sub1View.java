@@ -5,7 +5,7 @@ import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.html.Div;
 import com.vaadin.flow.router.Route;
 
-@Route("")
+//@Route("")
 public class Sub1View extends Div {
 
     public Sub1View() {
